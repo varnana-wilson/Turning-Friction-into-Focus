@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=story.html">
+    <title>Turning Friction into Focus</title>
+</head>
+<body>
+    <p>Loading...</p>
+</body>
+</html>
